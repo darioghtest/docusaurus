@@ -82,3 +82,11 @@ shortcuts:
   socials:
     x: sh0rtcts
     github: shortcuts
+paragraph-team:
+  name: Paragraph Team
+  title: Paragraph
+  url: https://x.com/paragraph_xyz
+  image_url: https://github.com/paragraph-xyz.png
+  page: true
+  socials:
+    x: paragraph_xyz
